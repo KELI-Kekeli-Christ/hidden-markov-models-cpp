@@ -1,0 +1,20 @@
+n=3
+M=3
+# *** A parameters ***
+0.709213 0.194411 0.0963755 
+0.284201 0.51574 0.200059 
+0.293645 0.299673 0.406682 
+# *** B parameters ***
+3.72008e-44 0.201408 0.798592 
+0.207664 0.3938 0.398536 
+0.779495 0.110866 0.109639 
+# *** pi parameters ***
+0.572 0.322 0.106 
+# *** state vocabulary ***
+chaud
+doux
+froid
+# *** observation vocabulary ***
+hiver
+mi-saison
+été

@@ -1,0 +1,21 @@
+été	chaud	0.578039
+hiver	froid	0.566797
+mi-saison	doux	0.699071
+mi-saison	doux	0.708163
+hiver	froid	0.605941
+été	chaud	0.553361
+
+hiver	froid	0.65569
+hiver	froid	0.799675
+hiver	froid	0.739501
+mi-saison	doux	0.63082
+mi-saison	doux	0.605491
+
+mi-saison	doux	0.654683
+hiver	froid	0.607623
+été	chaud	0.679841
+été	chaud	0.82291
+été	chaud	0.842669
+été	chaud	0.783427
+mi-saison	chaud	0.531541
+
