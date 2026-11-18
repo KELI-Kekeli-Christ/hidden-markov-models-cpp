@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # Hidden Markov Models — Viterbi, MLE & Bioinformatics
 
 > M1 Informatique — Parcours Intelligence Artificielle · Université d'Avignon · Mars 2025
